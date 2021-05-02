@@ -1,2 +1,2 @@
 # Tetris
-A simple Tetris clone made with Python
+A simple Tetris clone made entirely with Python.
